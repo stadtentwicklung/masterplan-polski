@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+      <Title>2022_01 Masterplan Cottbus Ostsee Polnisch Rendering A1+_modifiziert.tif</Title>
+      <Abstract></Abstract>
+      <SRS>EPSG:3857</SRS>
+      <BoundingBox minx="14.30603962768139" miny="51.72653549829005" maxx="14.55562278681502" maxy="51.83694542071849"/>
+      <Origin x="14.30603962768139" y="51.72653549829005"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+      <TileSets profile="mercator">
+        <TileSet href="10" units-per-pixel="152.87405654296876" order="10"/>
+        <TileSet href="11" units-per-pixel="76.43702827148438" order="11"/>
+        <TileSet href="12" units-per-pixel="38.21851413574219" order="12"/>
+        <TileSet href="13" units-per-pixel="19.10925706787109" order="13"/>
+        <TileSet href="14" units-per-pixel="9.55462853393555" order="14"/>
+        <TileSet href="15" units-per-pixel="4.77731426696777" order="15"/>
+      </TileSets>
+    </TileMap>
+    
